@@ -9,6 +9,7 @@
     color: var(--Pale-Blue);
     font-size: 16px;
     font-weight: 400;
+    margin-top: 0;
 }
 span{
     font-weight: 600;
@@ -64,6 +65,7 @@ body{
     padding: 2rem;
     background: var(--Dark-Blue);
     border-radius: 15px;
+    height: min-content;
 }
 
 
@@ -120,6 +122,8 @@ body{
 .limit{
     color: var(--Pale-Blue);
     font-weight: 600;
+    margin-bottom: 0;
+    margin-top: 3px;
 }
 .left{
     position: absolute;
@@ -127,7 +131,7 @@ body{
     /* max-width: 9.6rem; */
     width: 8rem;
     left: 82%;
-    top: -20%;
+    top: -40%;
     transform: translate(-50%, 0);
     background-color: white;
     padding: 1rem;
