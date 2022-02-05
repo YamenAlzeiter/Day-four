@@ -72,7 +72,7 @@ body{
 .logo-img{
     background-image: url(images/logo.svg);
     height: 3rem;
-    margin-bottom: 20px;
+    margin-bottom: 35px;
     background-repeat: no-repeat;
 }
 .icon{
@@ -132,7 +132,7 @@ body{
     /* max-width: 9.6rem; */
     width: 8rem;
     left: 82%;
-    top: -40%;
+    top: -30%;
     transform: translate(-50%, 0);
     background-color: white;
     padding: 1rem;
